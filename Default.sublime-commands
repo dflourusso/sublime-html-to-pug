@@ -1,9 +1,5 @@
 [
   {
-    "caption": "HtmlToPug: Convert file",
-    "command": "html_to_pug_from_file"
-  },
-  {
     "caption": "HtmlToPug: Convert selection",
     "command": "html_to_pug_from_selection"
   },

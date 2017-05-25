@@ -29,15 +29,22 @@ The "Packages" directory is located at:
 
     ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
 
+* Linux:
+
+    ~/.config/sublime-text-3/Packages/
+
+
+### Uninstall
+
+Remove the folder in `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/<HtmlToPugFolder>`
+
 ## Usage
 
-* **Convert whole HTML file** `Shift+Alt+F` - creates new file in the same folder using the same name as the source ending with '.html'.
 * **Convert selection** `Shift+Alt+S` - replaces selection of HTML with PUG content.
 * **Convert clipboard content** `Shift+Alt+V` - inserts PUG of converted clipboard HTML content.
 
 ### In Command Palette:
 
-* **HtmlToPug: Convert file**
 * **HtmlToPug: Convert selection**
 * **HtmlToPug: Convert clipboard content**
 
